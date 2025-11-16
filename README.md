@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github.jpeg" alt="Lofi desk setup banner"/>
+  <img src="github.jpg" alt="Lofi desk setup banner"/>
 </p>
 
 <h1 align="center">Hello World, I'm ＫΛＲΛＮ!</h1>
